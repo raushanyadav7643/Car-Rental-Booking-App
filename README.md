@@ -95,3 +95,23 @@ A full-scale Car Rental Platform with user, admin, and vendor modules, designed 
 
 * Version Control: Employed Git throughout the project for version control, collaboration, and backup.
 ## Screenshots
+
+<img width="1889" height="899" alt="Car Rental 01" src="https://github.com/user-attachments/assets/c0a83c27-74ad-42f8-ac7a-282878e90cdd" />
+<img width="1883" height="900" alt="Car Rental 02" src="https://github.com/user-attachments/assets/d48e0d8a-9eef-4df1-ba45-6b45fa86e57c" />
+<img width="1890" height="890" alt="Car Rental 03" src="https://github.com/user-attachments/assets/770d36a4-ad7e-433f-9464-76e9145825c6" />
+<img width="1876" height="891" alt="Car Rental 04" src="https://github.com/user-attachments/assets/1cc118f4-f05b-434e-8a6a-f71b8f13e11e" />
+<img width="1892" height="894" alt="Car Rental 05" src="https://github.com/user-attachments/assets/bc12b540-8b0b-4f7f-83a5-7585225f0aa1" />
+<img width="1894" height="890" alt="Car Rental 06" src="https://github.com/user-attachments/assets/4e1c3052-de88-4fdc-8d2a-b25f18436538" />
+<img width="1886" height="893" alt="Car Rental 07" src="https://github.com/user-attachments/assets/7ea31e3c-35ff-4e18-b8da-1271f2131d91" />
+<img width="1886" height="889" alt="Car Rental 08" src="https://github.com/user-attachments/assets/41190921-af16-499e-b4be-77abd6077746" />
+<img width="1885" height="894" alt="Car Rental 09" src="https://github.com/user-attachments/assets/553def46-2fc9-4d58-a87d-385745dc57b2" />
+<img width="1885" height="888" alt="Car Rental 10" src="https://github.com/user-attachments/assets/ea3dca28-76f3-4898-8e02-b2316039d39a" />
+
+
+
+
+
+
+
+
+
