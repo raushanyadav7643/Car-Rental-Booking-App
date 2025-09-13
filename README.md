@@ -1,5 +1,5 @@
 # Car-Rental-Booking-App
-This repository contains the code for a Full stack car rental website with 3 modules User,Admin,Vendor . The project is divided into Client  and  backend 
+This repository contains the code for a Full stack Car Rental Booking App with 3 modules User,Admin,Vendor . The project is divided into Client  and  backend 
 
 # Install node modules
 
